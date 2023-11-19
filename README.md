@@ -3,11 +3,6 @@
 > Often times, Data are updated in EDC very quickly. Rather than monitors going through EDC and looking for the changes, this program will spot it for them.
 > It is often not as simple as looking at dates, because sometimes values are changed retroactively. I will provide an example.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
 
 ![](header.png)
 
