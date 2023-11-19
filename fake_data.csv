@@ -1,0 +1,102 @@
+PatientID,gender,AE,"visit_date,Visit"
+1656,Male,2020-03-05,Headache,2
+8046,Female,2021-03-20,Headache,3
+1168,Male,2020-02-14,Chest Pain,Unscheduled
+2941,Male,2022-11-24,Swelling,1
+8051,Female,2023-05-12,Headache,Unscheduled
+3170,Female,2020-01-25,Headache,2
+3170,Female,2020-01-25,Stomach Pain,Unscheduled
+1237,Male,2023-06-13,Chest Pain,Unscheduled
+2210,Male,2021-06-08,Swelling,Unscheduled
+8232,Female,2020-08-18,Swelling,1
+2286,Male,2023-01-07,Headache,5
+1031,Female,2022-12-13,Fall,Unscheduled
+5650,Female,2023-08-21,Swelling,2
+9978,Male,2023-04-21,Swelling,1
+4381,Male,2022-11-27,Chest Pain,5
+6364,Female,2023-07-21,Swelling,3
+2014,Male,2020-03-11,Chest Pain,2
+7207,Male,2023-02-27,Swelling,2
+7204,Male,2021-03-29,Fall,4
+8482,Female,2022-02-11,Swelling,1
+7952,Female,2022-06-19,Chest Pain,2
+8926,Female,2020-03-19,Headache,5
+4166,Female,2021-02-27,Swelling,4
+2854,Male,2022-04-24,Swelling,3
+6379,Female,2020-06-17,Swelling,2
+4471,Male,2020-10-02,Headache,2
+3978,Female,2022-02-10,Swelling,4
+3767,Female,2021-02-16,Headache,2
+8997,Female,2023-07-01,Headache,3
+5449,Female,2021-12-09,Chest Pain,2
+1992,Female,2022-10-27,Fall,2
+9065,Female,2022-02-20,Chest Pain,2
+3052,Male,2020-12-13,Swelling,Unscheduled
+7130,Female,2020-04-22,Swelling,2
+5705,Male,2021-09-21,Headache,4
+3663,Male,2023-02-21,Swelling,5
+8698,Male,2020-06-27,Headache,Unscheduled
+8975,Female,2023-07-30,Fall,4
+5846,Male,2021-04-12,Fall,4
+5601,Female,2023-05-24,Swelling,Unscheduled
+7529,Female,2022-03-04,Fall,1
+9047,Female,2022-04-23,Headache,1
+4318,Female,2023-07-20,Chest Pain,1
+1469,Male,2023-01-29,Swelling,Unscheduled
+8678,Male,2023-03-17,Swelling,Unscheduled
+5930,Male,2021-10-05,Headache,2
+9309,Female,2020-04-08,Headache,2
+6693,Male,2020-05-14,Fall,1
+2864,Male,2023-06-07,Headache,4
+2478,Female,2022-03-23,Fall,Unscheduled
+3714,Male,2022-06-01,Fall,5
+5079,Female,2022-10-02,Headache,Unscheduled
+3258,Female,2020-05-25,Swelling,Unscheduled
+7803,Male,2022-07-22,Headache,1
+4421,Female,2021-06-04,Fall,5
+4848,Male,2022-04-22,Fall,2
+2147,Male,2021-02-18,Swelling,5
+6179,Male,2022-05-20,Chest Pain,4
+4462,Female,2020-10-20,Swelling,Unscheduled
+2647,Male,2020-07-28,Chest Pain,2
+3706,Male,2022-09-24,Fall,5
+3757,Female,2020-03-01,Chest Pain,2
+7077,Female,2020-12-09,Headache,5
+7906,Male,2022-09-07,Headache,Unscheduled
+9211,Male,2020-07-29,Headache,5
+8574,Female,2023-09-27,Chest Pain,3
+1090,Female,2023-01-18,Headache,1
+3424,Female,2023-05-25,Headache,Unscheduled
+5482,Female,2020-11-07,Chest Pain,4
+1928,Male,2020-11-10,Fall,Unscheduled
+2175,Female,2020-06-30,Fall,3
+6235,Female,2021-05-13,Swelling,2
+1060,Female,2020-05-03,Chest Pain,Unscheduled
+2799,Male,2020-08-27,Swelling,Unscheduled
+9514,Male,2022-11-09,Headache,Unscheduled
+5033,Male,2020-08-16,Chest Pain,Unscheduled
+2415,Male,2021-09-13,Swelling,5
+5167,Male,2021-04-16,Swelling,Unscheduled
+8117,Female,2022-08-17,Chest Pain,Unscheduled
+3620,Male,2022-05-22,Swelling,4
+1386,Female,2023-06-14,Swelling,3
+9476,Male,2022-02-06,Chest Pain,3
+7476,Female,2022-09-25,Chest Pain,Unscheduled
+5875,Male,2023-06-03,Chest Pain,2
+4185,Female,2023-02-27,Headache,1
+5066,Male,2020-05-21,Chest Pain,4
+7788,Female,2021-04-01,Chest Pain,2
+2524,Female,2022-10-12,Swelling,Unscheduled
+3840,Female,2023-04-25,Swelling,4
+7031,Male,2023-03-16,Swelling,4
+1911,Male,2020-09-01,Swelling,2
+3115,Female,2021-01-29,Headache,Unscheduled
+1011,Male,2023-02-02,Fall,5
+6956,Female,2022-04-16,Swelling,4
+5344,Male,2020-12-06,Fall,2
+2862,Male,2021-08-04,Fall,3
+6947,Female,2020-03-29,Swelling,1
+7892,Female,2023-08-28,Chest Pain,Unscheduled
+9435,Female,2020-07-09,Swelling,5
+8026,Male,2023-09-15,Chest Pain,2
+4471,Male,2021-05-14,Headache,4

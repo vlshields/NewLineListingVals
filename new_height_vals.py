@@ -9,7 +9,7 @@ import pandas as pd
 from datetime import date
 from myformatter import MyFormatter
 import argparse
-from quickhelper import QuickHelper
+
 
 def indicators(x):
     if x == "left_only":
@@ -50,7 +50,7 @@ def find_new(listing_1: str,listing_2: str,columns: list) -> None:
     # test["VisitDate"] = pd.to_datetime(test["VisitDate"])
     # test["VisitDate"] = test["VisitDate"].dt.strftime("%d-%b-%Y")
 
-    with pd.ExcelWriter("HeightNewVals{:%d_%b_%Y}.xlsx".format(date.today())) as writer:
+    with pd.ExcelWriter("NewVals{:%d_%b_%Y}.xlsx".format(date.today())) as writer:
 
         workbook  = writer.book
 
@@ -72,7 +72,7 @@ def main():
     # parser = argparse.ArgumentParser(description="Find new height values.")
     # parser.add_argument("filename", type=str, help="Path to the csv file")
     # args = parser.parse_args()
-    # find_new(args.filename)
+    find_new(listing_1,listing_2,columns)
 
 if __name__ == "__main__":
     main()
