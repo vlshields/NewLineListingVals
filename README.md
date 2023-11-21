@@ -42,7 +42,10 @@ Sponsor Name: TheSleepSpace
 | Primary endpoint: Improvemnt of sleep quality| Statistical Analysis Methods|  
 |--------------|-----------|
 |              | A Statisticaly significant decrease in the Sleep Quality Assessment from baseline to Last Patient Visit  |
-               <img width="365" scr="https://github.com/vlshields/NewLineListingVals/assets/25306963/f3d6937f-62c3-4049-8778-399c3db61b8b">
+              
+              
+![jcsm 13 3 479 t03](https://github.com/vlshields/NewLineListingVals/assets/25306963/d87ddb9c-e37b-4a88-bed9-047c5ed36852)
+
 
 
 Theres no mention of specific prohibited medications in the mock protocol, but there are known medications that could effect the studies primary endpoints. Sometimes patients taking such medications
