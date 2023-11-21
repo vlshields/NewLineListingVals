@@ -26,11 +26,11 @@ Sites often enter data in EDC systems later than the respective study documents 
 However, some cases are more egregious than others.\ Lets create a mock Phase III clinical trial as an example:
 
 ### Dormira
-**Protocol Title:**\ 
+**Protocol Title:** <br>
 A Phase 3, Randomized, Stratified, Observer-Blind, 
 Placebo-Controlled Study to Evaluate the Efficacy, and Safety of Insomnistop in 
-Adults with insomnia.\
-Protocol Number: inso7385\
+Adults with insomnia.<br>
+Protocol Number: inso7385<br>
 Sponsor Name: Dormira
 
 | Primary endpoints| Clinical Significance Threshold|  
