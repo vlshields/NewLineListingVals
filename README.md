@@ -18,7 +18,7 @@ run
 ```sh
 python new_listing_vals.py
 ```
-* or install the exe here [https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0]. Your machine will tell you that it may contain harmful files, this is a false positive. Do not run as administrator! 
+* or install the latest release [here](https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0). Your machine will tell you that it may contain harmful files, this is a false positive. Do not run as administrator! 
 
 ## Example Use Case
 ---------------------------------
