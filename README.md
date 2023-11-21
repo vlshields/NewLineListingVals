@@ -1,13 +1,9 @@
 # ChangeSpotter - OSCM
-> This tool is meant to make spotting changes in line listings easy. It is part of my Open Source Central Monitoring Project.
-> Often times, Data are updated in EDC very quickly. Rather than monitors going through EDC and looking for the changes, this program will spot it for them.
-> It is often not as simple as looking at dates, because sometimes values are changed retroactively. I will provide an example.
+> This tool is part of my Open Source Clinical Central Monitoring Tool-Set Project.
 
 
-![](header.png)
-
-## Installation only available on Windows
-
+## Installation (only available on Windows)
+---------------------
 Clone the repo:
 
 ```sh
@@ -22,10 +18,10 @@ run
 ```sh
 python new_height_vals.py
 ```
-* or install the exe here [https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0]. Do not run as administrator!
+* or install the exe here [https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0]. Your machine will tell you that it may contain harmful files, this is a false positive. Do not run as administrator! 
 
-## Use Case
-
+## Example Use Case
+---------------------------------
 ```sh
 python new_height_vals.py
 ```
@@ -43,10 +39,6 @@ Sponsor Name: TheSleepSpace
 |--------------|-----------|
 |  Epworth Sleepiness Score (ESS)|2 points|
 | and Functional Outcomes of Sleep Questionaire| 1 Point| 
-
-              
-              
-
 
 
 
@@ -73,7 +65,7 @@ We can see that there were medications entered later for this patient. We would 
 these misshaps more quickly.
 
 ## How to use
-
+-------------------------
 1. Open the program in any directory besides C:\User\<yourname>. I suggests making a new folder on your desktop or documents and keeping it there. You can run it the pythonic way or simple click on the .exe file.
 2. Click and drag your **first** line listing after prompted. Then drag the listing you want to see changes on.
 3. THe program should generate an excel file called NewVals{DateofExecustion}.xlsx. Under the indicator columnm, uncheck both to see the old (some become deleted or updated) and new values.
@@ -91,9 +83,9 @@ Some data get removed as well:
 Make sure to have excel installed or libreoffice installed. I have not tested it in google sheets but if someone does please let me know how it works!
 
 ## LICENSE 
+----------------
 
 Copyright 2023 Vincent Shields
----------------------------------------------------------------------
 FPA
 
 ## Release History
