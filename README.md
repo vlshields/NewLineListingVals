@@ -25,12 +25,12 @@ python new_listing_vals.py
 Sites often enter data in EDC systems later than the respective study documents indicate that they should. This is often refered to as data latency, and it happens at every Clinical Trial.
 However, some cases are more egregious than others. Lets create a mock Phase III clinical trial as an example:
 
-# CLINICAL STUDY PROTOCOL
+### Dormira
 **Protocol Title:** A Phase 3, Randomized, Stratified, Observer-Blind, 
 Placebo-Controlled Study to Evaluate the Efficacy, and Safety of Insomnistop in 
 Adults with insomnia.
 Protocol Number: inso7385
-Sponsor Name: TheSleepSpace
+Sponsor Name: Dormira
 
 | Primary endpoints| Clinical Significance Threshold|  
 |--------------|-----------|
