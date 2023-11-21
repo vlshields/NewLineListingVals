@@ -46,7 +46,7 @@ Sponsor Name: TheSleepSpace
 
               
               
-![jcsm 13 3 479 t03](https://github.com/vlshields/NewLineListingVals/assets/25306963/d87ddb9c-e37b-4a88-bed9-047c5ed36852)
+
 
 
 
