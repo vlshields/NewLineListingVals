@@ -83,7 +83,7 @@ Make sure to have excel installed or libreoffice installed. I have not tested it
 ## LICENSE 
 ----------------
 
-Copyright 2023 Vincent Shields
+Copyright 2023 Vincent Shields<br>
 FPA
 
 ## Release History
