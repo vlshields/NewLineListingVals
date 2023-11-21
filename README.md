@@ -18,7 +18,10 @@ install requirements
 ```sh
 pip install -r requirements.txt
 ```
-
+run
+```sh
+python new_height_vals.py
+```
 or install the sofware here 
 
 ## Use Case
@@ -39,7 +42,7 @@ Sponsor Name: TheSleepSpace
 | Primary endpoint: Improvemnt of sleep quality| Statistical Analysis Methods|  
 |--------------|-----------|
 |              | A Statisticaly significant decrease in the Sleep Quality Assessment from baseline to Last Patient Visit  |
-                [](![jcsm 13 3 479 t03](https://github.com/vlshields/NewLineListingVals/assets/25306963/f3d6937f-62c3-4049-8778-399c3db61b8b)
+               <img width="365" scr="https://github.com/vlshields/NewLineListingVals/assets/25306963/f3d6937f-62c3-4049-8778-399c3db61b8b">
 
 
 Theres no mention of specific prohibited medications in the mock protocol, but there are known medications that could effect the studies primary endpoints. Sometimes patients taking such medications
