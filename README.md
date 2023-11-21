@@ -39,9 +39,11 @@ Adults Aged 18 Years and Older
 Protocol Number: inso7385
 Sponsor Name: TheSleepSpace
 
-| Primary endpoint: Improvemnt of sleep quality| Statistical Analysis Methods|  
+| Primary endpoints| Clinical Significance Threshold|  
 |--------------|-----------|
-|              | A Statisticaly significant decrease in the Sleep Quality Assessment from baseline to Last Patient Visit  |
+|  Epworth Sleepiness Score (ESS)|2 points|
+| and Functional Outcomes of Sleep Questionaire| 1 Point| 
+
               
               
 ![jcsm 13 3 479 t03](https://github.com/vlshields/NewLineListingVals/assets/25306963/d87ddb9c-e37b-4a88-bed9-047c5ed36852)
