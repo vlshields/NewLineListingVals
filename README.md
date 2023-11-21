@@ -22,7 +22,7 @@ run
 ```sh
 python new_height_vals.py
 ```
-or install the exe here[https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0]. Do not run as administrator!
+* or install the exe here [https://github.com/vlshields/NewLineListingVals/releases/tag/v1.0.0]. Do not run as administrator!
 
 ## Use Case
 
