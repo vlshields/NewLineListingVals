@@ -18,7 +18,7 @@ def indicators(x):
     else:
         return "Both"
 
-def find_new(listing_1: str,listing_2: str,columns: str) -> None:
+def find_new(listing_1: str,listing_2: str,columns: str, color: str) -> None:
       """
     Compare two CSV files containing data to identify new and old entries based on selected columns.
 
@@ -64,7 +64,7 @@ def find_new(listing_1: str,listing_2: str,columns: str) -> None:
         worksheet = writer.sheets["Height"]
         formatter = MyFormatter(test,workbook,worksheet)
         formatter.spacing()
-        formatter.color_columns()
+        formatter.color_columns(color = color)
         formatter.add_borders()
         worksheet.freeze_panes(1,1)
         worksheet.autofilter(0, 0, len(test), len(test.columns)-1)
