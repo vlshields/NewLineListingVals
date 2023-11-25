@@ -76,4 +76,5 @@ def main():
     listing_1 = input("Enter the new line listing: ")
     listing_2 = input("Enter the new line listing: ")
     columns = input("Enter the columns to match: ")
+    color = input("Please enter the desired column color (HEX): ")
     find_new(listing_1,listing_2,columns)
